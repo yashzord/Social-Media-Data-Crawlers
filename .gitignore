@@ -1,0 +1,11 @@
+__pycache__/
+reddit_client.log
+.env
+chan_crawler.log
+chan_toxicity_analysis.log
+chan_moderate_crawler.log
+chan_toxicity_analysis.log.1
+toxicity_analysis.log
+Analysis_Codes/.env
+chan_old_toxicity_analysis.log
+chan_old_toxicity_analysis.log.1

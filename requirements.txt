@@ -1,0 +1,10 @@
+requests
+pymongo
+faktory
+pyfaktory
+python-dotenv
+matplotlib
+pandas
+seaborn
+colorlog
+numpy
