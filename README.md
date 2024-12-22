@@ -1,4 +1,4 @@
-# Project 2 Implementation: Data Crawlers
+Implementation: Data Crawlers
 
 ## Setup Instructions
 
